@@ -33,4 +33,4 @@ Dr. Komputer adalah sebuah Logika Fuzzy yang dibangun menggunakan Python dan Str
 
 ## Akses Aplikasi
 Aplikasi ini juga telah di-deploy dan dapat diakses secara langsung melalui link berikut:
-[https://h1d024047-drbetta.streamlit.app/]
+[https://h1d024047-mrkomputer.streamlit.app/]
